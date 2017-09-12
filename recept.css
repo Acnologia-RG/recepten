@@ -1,0 +1,22 @@
+.bron {
+	font-size: 12px;
+}
+
+body {
+	font-family: Arial, Sans-serif;
+	font-size: 20px;
+	background-color: black;
+	color: white;
+}
+
+a {
+	color: white;
+}
+
+a:hover {
+	color: yellow;
+}
+
+a:visited {
+	color: green;
+}
